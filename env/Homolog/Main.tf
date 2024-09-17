@@ -3,7 +3,7 @@ module "homolog" {
 
     nome_repositorio = "homolog"
     cargoIAM = "homolog"
-    ambiante = "homolog"
+    ambiente = "homolog"
     imagem="leonardosartorello/go_ci:22"
 }
 
